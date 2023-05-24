@@ -50,14 +50,17 @@ $ ./scrabble
 Player 1: Question?
 Player 2: Question!
 Tie!
+
 $ ./scrabble
 Player 1: Oh,
 Player 2: hai!
 Player 2 wins!
+
 $ ./scrabble
 Player 1: COMPUTER
 Player 2: science
 Player 1 wins!
+
 $ ./scrabble
 Player 1: Scrabble
 Player 2: wiNNeR
